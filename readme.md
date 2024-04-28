@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains the code and resources used in the analysis of patient transportation at Fort Sanders Regional Medical Center, conducted by the Center for Advanced Systems Research and Education (CASRE) at the University of Tennessee Knoxville. The analysis covers patient transportation data from February to April 2022, focusing on specific sections such as Breast Cancer, CT Scan, and Dialysis.
+For a brief overview of the project, take a look at [these slides](https://liveutk-my.sharepoint.com/:p:/g/personal/ssharifn_vols_utk_edu/ER08Y6j8v2lNhnQ7jKj_B-0BLsUyuViCxu8Z8npjMyQvUQ?e=7oQ35q).
 
 ## Data Analysis
 - **Data Preprocessing**: Initial exploration and cleaning of the transportation data.
